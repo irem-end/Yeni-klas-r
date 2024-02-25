@@ -16,8 +16,6 @@ Boostrap kullanarak da kayıt formu oluşturdum.
 vercel.com linkini aşağıya ekliyorum;
 yeni-klas-g5ds4pa7q-irem-ends-projects.vercel.app
 
-istersen burda düzenleme yaparsın iroş bu kadardı. ben çıkıyorum
-düzenlemeyi de şöyle yapıyoruz
 
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
